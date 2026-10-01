@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="ModuloContabilImpostos" default="default" basedir=".">
+    <description>Builds, tests, and runs the project ModuloContabilImpostos.</description>
+    <import file="nbproject/build-impl.xml" optional="true"/>
+    <target name="default" unless="netbeans.home">
+        <echo message="Abra este projeto no NetBeans para compilar e executar."/>
+    </target>
+</project>
